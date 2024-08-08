@@ -1,0 +1,20 @@
+Full Course VMware vSphere Version 7.0 | What is Virtulization | Become VMware Expert.
+https://www.youtube.com/watch?v=eEd86b8E9Us&list=PLeqch-0_f39HYCUEtkwoXOcmg312t9yWZ
+
+Instalación de ESXi en un servidor físico - LABORATORIO 01
+https://www.youtube.com/watch?v=w2ukYoUO7-0
+
+ASÍ he CREADO mi VPN para COMPARTIR NETFLIX y MUCHO MÁS con WireGuard
+https://www.youtube.com/watch?v=DCTX10_U8WA
+
+WireGuard - Install and Configure WireGuard VPN Server on Windows
+https://www.youtube.com/watch?v=oo_-xTLLfvc
+
+/ISOs/
+https://downloads.nfina.com/ISOs/
+
+Como instalar y configurar ESXi 7 - VMware vSphere
+https://www.youtube.com/watch?v=Z_j8dMc2St0&list=PLmPiNJlD_Or2gi8zsyQ1FqBtRFxj13i7y&index=2
+
+Bodega Digital
+https://bodegadigital.biz/checkout/
