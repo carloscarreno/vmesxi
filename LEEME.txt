@@ -18,3 +18,24 @@ https://www.youtube.com/watch?v=Z_j8dMc2St0&list=PLmPiNJlD_Or2gi8zsyQ1FqBtRFxj13
 
 Bodega Digital
 https://bodegadigital.biz/checkout/
+
+How to Install VMware Workstation 17 Pro on Linux Systems
+https://www.tecmint.com/install-vmware-workstation-in-linux/
+
+How to Access Debian via Remote Desktop from Windows
+https://phoenixnap.com/kb/debian-remote-desktop
+
+Better Than Top: 9 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats
+https://itsfoss.com/linux-system-monitoring-tools/
+
+Installing Xfce-Terminal on Ubuntu and Fedora
+https://www.iceflatline.com/2009/08/installing-xfce-terminal-on-ubuntu-and-fedora/
+
+VMware Workstation 17.5.2
+https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html
+
+Suspend Help on software suspend
+https://wiki.debian.org/Suspend
+
+Preventing Server Going To Sleep
+https://www.youtube.com/watch?v=nVv4KOcBXKw
