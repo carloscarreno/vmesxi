@@ -1,8 +1,17 @@
+Descarga Vmware Esxi 8.0.3 Broadcom y Vmware Workstation
+https://www.youtube.com/watch?v=wpuP1mUv84Y&list=PLnB2gEd2oMZb9PIpUIKuHbsKE3wRlmYSt
+
 Full Course VMware vSphere Version 7.0 | What is Virtulization | Become VMware Expert.
 https://www.youtube.com/watch?v=eEd86b8E9Us&list=PLeqch-0_f39HYCUEtkwoXOcmg312t9yWZ
 
 Instalación de ESXi en un servidor físico - LABORATORIO 01
 https://www.youtube.com/watch?v=w2ukYoUO7-0
+
+16. Curso de Vmware Networking basico
+https://www.youtube.com/watch?v=ry8knrnRyKQ&list=PLnB2gEd2oMZb9PIpUIKuHbsKE3wRlmYSt&index=17
+
+ Como instalar vCenter Server 7 en Workstation paso a paso
+https://www.youtube.com/watch?v=J7zMxX0bgY0&list=PLmPiNJlD_Or2gi8zsyQ1FqBtRFxj13i7y&index=6
 
 ASÍ he CREADO mi VPN para COMPARTIR NETFLIX y MUCHO MÁS con WireGuard
 https://www.youtube.com/watch?v=DCTX10_U8WA
@@ -19,6 +28,7 @@ https://www.youtube.com/watch?v=Z_j8dMc2St0&list=PLmPiNJlD_Or2gi8zsyQ1FqBtRFxj13
 Bodega Digital
 https://bodegadigital.biz/checkout/
 
+<<<<<<< HEAD
 How to Install VMware Workstation 17 Pro on Linux Systems
 https://www.tecmint.com/install-vmware-workstation-in-linux/
 
@@ -39,3 +49,10 @@ https://wiki.debian.org/Suspend
 
 Preventing Server Going To Sleep
 https://www.youtube.com/watch?v=nVv4KOcBXKw
+=======
+Download VMware Workstation 17.5.2
+https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html
+>>>>>>> 7f117c582142d3e82ee6e7a5c5146ee8f34f1709
+
+VMware vSphere 8 - DESCUBRE como INSTALAR #ESXi versión 8
+https://www.youtube.com/watch?v=w4BDlfJ7tLY&list=PLznRNLIWBPwE1dlyDSKdoiSzcMSk7Fg06
